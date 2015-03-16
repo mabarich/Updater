@@ -1,0 +1,11 @@
+C:\Users\Marco\documents\visual studio 2013\Projects\Updater\Updater\bin\Debug\Updater.exe.config
+C:\Users\Marco\documents\visual studio 2013\Projects\Updater\Updater\bin\Debug\Updater.exe
+C:\Users\Marco\documents\visual studio 2013\Projects\Updater\Updater\bin\Debug\Updater.pdb
+C:\Users\Marco\documents\visual studio 2013\Projects\Updater\Updater\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Marco\documents\visual studio 2013\Projects\Updater\Updater\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Marco\documents\visual studio 2013\Projects\Updater\Updater\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Marco\documents\visual studio 2013\Projects\Updater\Updater\obj\Debug\Updater.Form1.resources
+C:\Users\Marco\documents\visual studio 2013\Projects\Updater\Updater\obj\Debug\Updater.Properties.Resources.resources
+C:\Users\Marco\documents\visual studio 2013\Projects\Updater\Updater\obj\Debug\Updater.csproj.GenerateResource.Cache
+C:\Users\Marco\documents\visual studio 2013\Projects\Updater\Updater\obj\Debug\Updater.exe
+C:\Users\Marco\documents\visual studio 2013\Projects\Updater\Updater\obj\Debug\Updater.pdb
